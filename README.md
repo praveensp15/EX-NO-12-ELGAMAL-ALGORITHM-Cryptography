@@ -1,5 +1,6 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-
+## NAME: PRAVEEN S
+## REG NO: 2305001027
 ## AIM:
 To Implement ELGAMAL ALGORITHM
 
@@ -68,6 +69,7 @@ print("Decrypted Message:", decrypted)
 
 ## Output:
 
+<img width="579" height="290" alt="image" src="https://github.com/user-attachments/assets/ea80248e-90f1-4054-9dae-2926db8cb511" />
 
 
 ## Result:
